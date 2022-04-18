@@ -1,0 +1,2 @@
+# Plagiarism-Checker
+The internet is the answer to every question in today's world. As a result, anyone can readily copy and use content from the internet at any moment. Plagiarism is the term for this. It is currently expanding. In most cases, people plagiarize materials by rewording them, copying them, and failing to cite sources. This web app uses We’ll build a Python Flask app that uses Pinecone — a similarity search service — to find possibly plagiarized content.'  
